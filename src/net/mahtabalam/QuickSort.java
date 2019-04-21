@@ -51,6 +51,5 @@ class QuickSort
 		return i; 
 	} 
 
-
 } 
 
